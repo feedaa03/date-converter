@@ -2,10 +2,6 @@
 
 <div align="center">
   <p>A simple, efficient, and robust tool designed to seamlessly convert dates between different calendar systems (e.g., Gregorian to Hijri, or vice-versa).</p>
-
-  <img src="https://img.shields.io/badge/Language-Python/Swift/JS-blue?style=for-the-badge" alt="Languages" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/github/stars/feedaa03/date-converter?style=for-the-badge" alt="Stars" />
 </div>
 
 ---
